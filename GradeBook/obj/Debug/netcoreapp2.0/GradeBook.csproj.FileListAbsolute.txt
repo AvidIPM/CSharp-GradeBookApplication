@@ -1,0 +1,16 @@
+C:\Users\GBumgardner\Desktop\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\GBumgardner\Desktop\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\GBumgardner\Desktop\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\GBumgardner\Desktop\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojResolveAssemblyReference.cache
+C:\Users\GBumgardner\Desktop\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.deps.json
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.json
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.runtimeconfig.dev.json
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\bin\Debug\netcoreapp2.0\GradeBook.pdb
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csprojAssemblyReference.cache
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.csproj.CoreCompileInputs.cache
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfoInputs.cache
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.AssemblyInfo.cs
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.dll
+C:\Users\GBumgardner\Desktop\Git\CSharp-GradeBookApplication-master\CSharp-GradeBookApplication-master\GradeBook\obj\Debug\netcoreapp2.0\GradeBook.pdb
